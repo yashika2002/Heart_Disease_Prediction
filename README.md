@@ -1,4 +1,4 @@
-# Heart_Disease_Prediction
+# Heart_Disease_Prediction using Machine Learning
 Created a Heart Disease prediction model which predict the likelihood of a heart disease using various machine learning algorithms
 <h2>Libraries Used:</h2>
 <li>Numpy</li>
